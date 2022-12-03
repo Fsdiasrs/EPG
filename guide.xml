@@ -1,0 +1,1247 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AE HD">
+    <display-name lang="pt">AE HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="AE FHD">
+    <display-name lang="pt">AE FHD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1644927101.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AE SD">
+    <display-name lang="pt">AE SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="AGRO + FHD">
+    <display-name lang="pt">AGRO + FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="AGRO + HD">
+    <display-name lang="pt">AGRO + HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="AGRO CANAL">
+    <display-name lang="pt">AGRO CANAL</display-name>
+    <icon src="https://www.lineup.tv.br/radios/1581483435.gif|https://www.lineup.tv.br/canais/1592302022.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC FHD">
+    <display-name lang="pt">AMC FHD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1598009352.gif|https://www.lineup.tv.br/canais/1642108923.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="AMC SD">
+    <display-name lang="pt">AMC SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET FHD">
+    <display-name lang="pt">ANIMAL PLANET FHD</display-name>
+  </channel>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET SD">
+    <display-name lang="pt">ANIMAL PLANET SD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="ARTE 1 HD">
+    <display-name lang="pt">ARTE 1 HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="ARTE 1 FHD">
+    <display-name lang="pt">ARTE 1 FHD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1579403159.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ARTE 1 SD">
+    <display-name lang="pt">ARTE 1 SD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="AXN SD">
+    <display-name lang="pt">AXN SD</display-name>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="AXN FHD">
+    <display-name lang="pt">AXN FHD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="BABY TV HD">
+    <display-name lang="pt">BABY TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BABY TV SD">
+    <display-name lang="pt">BABY TV SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="BAND BAHIA HD">
+    <display-name lang="pt">BAND BAHIA HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND CAMPINAS HD">
+    <display-name lang="pt">BAND CAMPINAS HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND CAMPINAS FHD">
+    <display-name lang="pt">BAND CAMPINAS FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND FHD">
+    <display-name lang="pt">BAND FHD</display-name>
+  </channel>
+  <channel id="BAND HD">
+    <display-name lang="pt">BAND HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="BAND NEWS HD">
+    <display-name lang="pt">BAND NEWS HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="BAND NEWS SD">
+    <display-name lang="pt">BAND NEWS SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND PR HD">
+    <display-name lang="pt">BAND PR HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND RJ FHD">
+    <display-name lang="pt">BAND RJ FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND RJ HD">
+    <display-name lang="pt">BAND RJ HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="BAND SP FHD">
+    <display-name lang="pt">BAND SP FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND SP HD">
+    <display-name lang="pt">BAND SP HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND SPORTS FHD">
+    <display-name lang="pt">BAND SPORTS FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND SPORTS HD">
+    <display-name lang="pt">BAND SPORTS HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BAND SPORTS SD">
+    <display-name lang="pt">BAND SPORTS SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BIS FHD">
+    <display-name lang="pt">BIS FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BIS SD">
+    <display-name lang="pt">BIS SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BOA VONTADE TV">
+    <display-name lang="pt">BOA VONTADE TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BOAS NOVAS SD">
+    <display-name lang="pt">BOAS NOVAS SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BRA">
+    <display-name lang="pt">BRA</display-name>
+  </channel>
+  <channel id="CANAL BRASIL FHD">
+    <display-name lang="pt">CANAL BRASIL FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CANAL BRASIL HD">
+    <display-name lang="pt">CANAL BRASIL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CANAL BRASIL SD">
+    <display-name lang="pt">CANAL BRASIL SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CANAL DO BOI">
+    <display-name lang="pt">CANAL DO BOI</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CANAL RURAL">
+    <display-name lang="pt">CANAL RURAL</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CANAL RURAL HD">
+    <display-name lang="pt">CANAL RURAL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CANAL SAÚDE">
+    <display-name lang="pt">CANAL SAÚDE</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANAL SONY FHD">
+    <display-name lang="pt">CANAL SONY FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CANAL SONY HD">
+    <display-name lang="pt">CANAL SONY HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CANAL SONY SD">
+    <display-name lang="pt">CANAL SONY SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CANÇÃO NOVA">
+    <display-name lang="pt">CANÇÃO NOVA</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="CANÇÃO NOVA FHD">
+    <display-name lang="pt">CANÇÃO NOVA FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANÇÃO NOVA SD">
+    <display-name lang="pt">CANÇÃO NOVA SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK FHD">
+    <display-name lang="pt">CARTOON NETWORK FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CARTOON NETWORK HD">
+    <display-name lang="pt">CARTOON NETWORK HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CARTOON NETWORK SD">
+    <display-name lang="pt">CARTOON NETWORK SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CARTOONITO FHD">
+    <display-name lang="pt">CARTOONITO FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CARTOONITO HD">
+    <display-name lang="pt">CARTOONITO HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CARTOONITO SD">
+    <display-name lang="pt">CARTOONITO SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CENTRAL TV">
+    <display-name lang="pt">CENTRAL TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CINE BRASIL">
+    <display-name lang="pt">CINE BRASIL</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="CINE CANAL HD">
+    <display-name lang="pt">CINE CANAL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CINEMAX HD">
+    <display-name lang="pt">CINEMAX HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="CINEMAX FHD">
+    <display-name lang="pt">CINEMAX FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CINEMAX SD">
+    <display-name lang="pt">CINEMAX SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CNN BRASIL FHD">
+    <display-name lang="pt">CNN BRASIL FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CNN BRASIL HD">
+    <display-name lang="pt">CNN BRASIL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CNN BRASIL SD">
+    <display-name lang="pt">CNN BRASIL SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CNT">
+    <display-name lang="pt">CNT</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="COMBATE FHD">
+    <display-name lang="pt">COMBATE FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="COMBATE HD">
+    <display-name lang="pt">COMBATE HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="COMBATE SD">
+    <display-name lang="pt">COMBATE SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="COMEDY CENTRAL FHD">
+    <display-name lang="pt">COMEDY CENTRAL FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="COMEDY CENTRAL HD">
+    <display-name lang="pt">COMEDY CENTRAL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="COMEDY CENTRAL SD">
+    <display-name lang="pt">COMEDY CENTRAL SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CULTURA">
+    <display-name lang="pt">CULTURA</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL FHD">
+    <display-name lang="pt">DISCOVERY CHANNEL FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL HD">
+    <display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL SD">
+    <display-name lang="pt">DISCOVERY CHANNEL SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DISCOVERY H&amp;H FHD">
+    <display-name lang="pt">DISCOVERY H&amp;H FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY H&amp;H SD">
+    <display-name lang="pt">DISCOVERY H&amp;H SD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS HD">
+    <display-name lang="pt">DISCOVERY KIDS HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS FHD">
+    <display-name lang="pt">DISCOVERY KIDS FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS SD">
+    <display-name lang="pt">DISCOVERY KIDS SD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE HD">
+    <display-name lang="pt">DISCOVERY SCIENCE HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE FHD">
+    <display-name lang="pt">DISCOVERY SCIENCE FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DISCOVERY THEATER FHD">
+    <display-name lang="pt">DISCOVERY THEATER FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DISCOVERY THEATER HD">
+    <display-name lang="pt">DISCOVERY THEATER HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO FHD">
+    <display-name lang="pt">DISCOVERY TURBO FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD">
+    <display-name lang="pt">DISCOVERY TURBO HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="DISCOVERY WORLD HD">
+    <display-name lang="pt">DISCOVERY WORLD HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="DISCOVERY WORLD FHD">
+    <display-name lang="pt">DISCOVERY WORLD FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DISNEY CHANNEL HD">
+    <display-name lang="pt">DISNEY CHANNEL HD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="DISNEY CHANNEL FHD">
+    <display-name lang="pt">DISNEY CHANNEL FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DISNEY CHANNEL SD">
+    <display-name lang="pt">DISNEY CHANNEL SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="E! FHD">
+    <display-name lang="pt">E! FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="E! SD">
+    <display-name lang="pt">E! SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="EPTV RIBEIRÃO PRETO SD">
+    <display-name lang="pt">EPTV RIBEIRÃO PRETO SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 FHD">
+    <display-name lang="pt">ESPN 2 FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN 2 SD">
+    <display-name lang="pt">ESPN 2 SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN 3 FHD">
+    <display-name lang="pt">ESPN 3 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN 3 HD">
+    <display-name lang="pt">ESPN 3 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN 4 HD">
+    <display-name lang="pt">ESPN 4 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN 4 FHD">
+    <display-name lang="pt">ESPN 4 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN EXTRA HD">
+    <display-name lang="pt">ESPN EXTRA HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN EXTRA FHD">
+    <display-name lang="pt">ESPN EXTRA FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN FHD">
+    <display-name lang="pt">ESPN FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN SD">
+    <display-name lang="pt">ESPN SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FASHION TV FHD">
+    <display-name lang="pt">FASHION TV FHD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="FASHION TV HD">
+    <display-name lang="pt">FASHION TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FDR - Futura (CE)">
+    <display-name lang="pt">FDR - Futura (CE)</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FISH TV">
+    <display-name lang="pt">FISH TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FISH TV FHD">
+    <display-name lang="pt">FISH TV FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FISH TV HD">
+    <display-name lang="pt">FISH TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FISH TV SD">
+    <display-name lang="pt">FISH TV SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="pt">FOOD NETWORK HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FOX SPORTS 2 FHD">
+    <display-name lang="pt">FOX SPORTS 2 FHD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD">
+    <display-name lang="pt">FOX SPORTS 2 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS 2 SD">
+    <display-name lang="pt">FOX SPORTS 2 SD</display-name>
+  </channel>
+  <channel id="FUTURA">
+    <display-name lang="pt">FUTURA</display-name>
+  </channel>
+  <channel id="FUTURA SD">
+    <display-name lang="pt">FUTURA SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FX FHD">
+    <display-name lang="pt">FX FHD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="GAZETA">
+    <display-name lang="pt">GAZETA</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="GLOBO  NSC TV JOINVILLE FHD">
+    <display-name lang="pt">GLOBO  NSC TV JOINVILLE FHD</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO AMAZONICA RIO BRANCO HD">
+    <display-name lang="pt">GLOBO AMAZONICA RIO BRANCO HD</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO ASA BRANCA  HD">
+    <display-name lang="pt">GLOBO ASA BRANCA  HD</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO BAHIA FHD">
+    <display-name lang="pt">GLOBO BAHIA FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GLOBO BAHIA HD">
+    <display-name lang="pt">GLOBO BAHIA HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GLOBO BELO HORIZONTE FHD">
+    <display-name lang="pt">GLOBO BELO HORIZONTE FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GLOBO BELO HORIZONTE HD">
+    <display-name lang="pt">GLOBO BELO HORIZONTE HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GLOBO BELO HORIZONTE SD">
+    <display-name lang="pt">GLOBO BELO HORIZONTE SD</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO BLUMENAU FHD">
+    <display-name lang="pt">GLOBO BLUMENAU FHD</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO BRASILIA HD">
+    <display-name lang="pt">GLOBO BRASILIA HD</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO EPTV COMPINAS HD">
+    <display-name lang="pt">GLOBO EPTV COMPINAS HD</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO EPTV RIBEIRAO PRETO FHD">
+    <display-name lang="pt">GLOBO EPTV RIBEIRAO PRETO FHD</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOOB FHD">
+    <display-name lang="pt">GLOOB FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GLOOB HD">
+    <display-name lang="pt">GLOOB HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GLOOB SD">
+    <display-name lang="pt">GLOOB SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GLOOBINHO FHD">
+    <display-name lang="pt">GLOOBINHO FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GNT FHD">
+    <display-name lang="pt">GNT FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GNT SD">
+    <display-name lang="pt">GNT SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO 2 FHD">
+    <display-name lang="pt">HBO 2 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO 2 SD">
+    <display-name lang="pt">HBO 2 SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO FAMILY FHD">
+    <display-name lang="pt">HBO FAMILY FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO FAMILY HD">
+    <display-name lang="pt">HBO FAMILY HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO FAMILY SD">
+    <display-name lang="pt">HBO FAMILY SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO FHD">
+    <display-name lang="pt">HBO FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO MUNDI FHD">
+    <display-name lang="pt">HBO MUNDI FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO MUNDI HD">
+    <display-name lang="pt">HBO MUNDI HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO MUNDI SD">
+    <display-name lang="pt">HBO MUNDI SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO PLUS SD">
+    <display-name lang="pt">HBO PLUS SD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="HBO PLUS HD">
+    <display-name lang="pt">HBO PLUS HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="HBO POP FHD">
+    <display-name lang="pt">HBO POP FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO POP HD">
+    <display-name lang="pt">HBO POP HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO SD">
+    <display-name lang="pt">HBO SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO SIGNATURE HD">
+    <display-name lang="pt">HBO SIGNATURE HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO SIGNATURE SD">
+    <display-name lang="pt">HBO SIGNATURE SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO XTREME FHD">
+    <display-name lang="pt">HBO XTREME FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO XTREME HD">
+    <display-name lang="pt">HBO XTREME HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HGTV FHD">
+    <display-name lang="pt">HGTV FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name lang="pt">HGTV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HISTORY 2 FHD">
+    <display-name lang="pt">HISTORY 2 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HISTORY 2 HD">
+    <display-name lang="pt">HISTORY 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HISTORY 2 SD">
+    <display-name lang="pt">HISTORY 2 SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HISTORY CHANNEL HD">
+    <display-name lang="pt">HISTORY CHANNEL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HISTORY CHANNEL SD">
+    <display-name lang="pt">HISTORY CHANNEL SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HISTORY FHD">
+    <display-name lang="pt">HISTORY FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HISTORY HD">
+    <display-name lang="pt">HISTORY HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HISTORY SD">
+    <display-name lang="pt">HISTORY SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ID - INVESTIGATION DISCOVERY FHD">
+    <display-name lang="pt">ID - INVESTIGATION DISCOVERY FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ID - INVESTIGATION DISCOVERY HD">
+    <display-name lang="pt">ID - INVESTIGATION DISCOVERY HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ID - INVESTIGATION DISCOVERY SD">
+    <display-name lang="pt">ID - INVESTIGATION DISCOVERY SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="JOVEM PAN NEWS FHD">
+    <display-name lang="pt">JOVEM PAN NEWS FHD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="JOVEM PAN NEWS HD">
+    <display-name lang="pt">JOVEM PAN NEWS HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="LIFETIME FHD">
+    <display-name lang="pt">LIFETIME FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="LIFETIME HD">
+    <display-name lang="pt">LIFETIME HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="LIFETIME SD">
+    <display-name lang="pt">LIFETIME SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MEGA">
+    <display-name lang="pt">MEGA</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MEGAPIX FHD">
+    <display-name lang="pt">MEGAPIX FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MEGAPIX HD">
+    <display-name lang="pt">MEGAPIX HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MEGAPIX SD">
+    <display-name lang="pt">MEGAPIX SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="pt">MTV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MULTISHOW FHD">
+    <display-name lang="pt">MULTISHOW FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MULTISHOW HD">
+    <display-name lang="pt">MULTISHOW HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MULTISHOW SD">
+    <display-name lang="pt">MULTISHOW SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MUSIC BOX BRAZIL SD">
+    <display-name lang="pt">MUSIC BOX BRAZIL SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Modo Viagem FHD">
+    <display-name lang="pt">Modo Viagem FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Modo Viagem HD">
+    <display-name lang="pt">Modo Viagem HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Modo Viagem SD">
+    <display-name lang="pt">Modo Viagem SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NATGEO WILD HD">
+    <display-name lang="pt">NATGEO WILD HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC FHD">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC HD">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC SD">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NHK FHD (JAPONES)">
+    <display-name lang="pt">NHK FHD (JAPONES)</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="NHK HD (JAPONES)">
+    <display-name lang="pt">NHK HD (JAPONES)</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="NHK SD">
+    <display-name lang="pt">NHK SD</display-name>
+  </channel>
+  <channel id="NICK JR FHD">
+    <display-name lang="pt">NICK JR FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NICK JR HD">
+    <display-name lang="pt">NICK JR HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NICK JR SD">
+    <display-name lang="pt">NICK JR SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NICKELODEON FHD">
+    <display-name lang="pt">NICKELODEON FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NICKELODEON HD">
+    <display-name lang="pt">NICKELODEON HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NICKELODEON SD">
+    <display-name lang="pt">NICKELODEON SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="NOVO TEMPO">
+    <display-name lang="pt">NOVO TEMPO</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="OFF FHD">
+    <display-name lang="pt">OFF FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="OFF SD">
+    <display-name lang="pt">OFF SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PARAMOUNT FHD">
+    <display-name lang="pt">PARAMOUNT FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PARAMOUNT HD">
+    <display-name lang="pt">PARAMOUNT HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PARAMOUNT SD">
+    <display-name lang="pt">PARAMOUNT SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="POLISHOP">
+    <display-name lang="pt">POLISHOP</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 2 FHD">
+    <display-name lang="pt">PREMIERE 2 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 2 HD">
+    <display-name lang="pt">PREMIERE 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 2 SD">
+    <display-name lang="pt">PREMIERE 2 SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 3 FHD">
+    <display-name lang="pt">PREMIERE 3 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 3 SD">
+    <display-name lang="pt">PREMIERE 3 SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 4 HD">
+    <display-name lang="pt">PREMIERE 4 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 4 SD">
+    <display-name lang="pt">PREMIERE 4 SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 5 FHD">
+    <display-name lang="pt">PREMIERE 5 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 5 HD">
+    <display-name lang="pt">PREMIERE 5 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 6 FHD">
+    <display-name lang="pt">PREMIERE 6 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 6 HD">
+    <display-name lang="pt">PREMIERE 6 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 6 SD">
+    <display-name lang="pt">PREMIERE 6 SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 7 FHD">
+    <display-name lang="pt">PREMIERE 7 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE 7 HD">
+    <display-name lang="pt">PREMIERE 7 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE CLUBES FHD ²">
+    <display-name lang="pt">PREMIERE CLUBES FHD ²</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE CLUBES HD">
+    <display-name lang="pt">PREMIERE CLUBES HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE CLUBES HD ²">
+    <display-name lang="pt">PREMIERE CLUBES HD ²</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE CLUBES SD">
+    <display-name lang="pt">PREMIERE CLUBES SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE CLUBES SD ²">
+    <display-name lang="pt">PREMIERE CLUBES SD ²</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD CAMPINAS HD">
+    <display-name lang="pt">RECORD CAMPINAS HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD MG HD">
+    <display-name lang="pt">RECORD MG HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD MINAS">
+    <display-name lang="pt">RECORD MINAS</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD NEWS">
+    <display-name lang="pt">RECORD NEWS</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD NEWS FHD">
+    <display-name lang="pt">RECORD NEWS FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD NEWS HD">
+    <display-name lang="pt">RECORD NEWS HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD NEWS SD">
+    <display-name lang="pt">RECORD NEWS SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD RJ HD">
+    <display-name lang="pt">RECORD RJ HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD SP FHD">
+    <display-name lang="pt">RECORD SP FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD SP HD">
+    <display-name lang="pt">RECORD SP HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RECORD SP SD">
+    <display-name lang="pt">RECORD SP SD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="RECORD TV SD">
+    <display-name lang="pt">RECORD TV SD</display-name>
+    <url>http://www.nowonline.com.br</url>
+  </channel>
+  <channel id="REDE BRASIL HD">
+    <display-name lang="pt">REDE BRASIL HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="REDE BRASIL SD">
+    <display-name lang="pt">REDE BRASIL SD</display-name>
+  </channel>
+  <channel id="REDE TV! SD">
+    <display-name lang="pt">REDE TV! SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="REDE TV! HD">
+    <display-name lang="pt">REDE TV! HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="REDE VIDA">
+    <display-name lang="pt">REDE VIDA</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="REDE VIDA HD">
+    <display-name lang="pt">REDE VIDA HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="RPC TV CURITIBA SD">
+    <display-name lang="pt">RPC TV CURITIBA SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SBT ALTEROSA">
+    <display-name lang="pt">SBT ALTEROSA</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SHOPTIME">
+    <display-name lang="pt">SHOPTIME</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPACE FHD">
+    <display-name lang="pt">SPACE FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPACE HD">
+    <display-name lang="pt">SPACE HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPACE SD">
+    <display-name lang="pt">SPACE SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPORTV 2 FHD">
+    <display-name lang="pt">SPORTV 2 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPORTV 2 HD">
+    <display-name lang="pt">SPORTV 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPORTV 2 SD">
+    <display-name lang="pt">SPORTV 2 SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPORTV 3 FHD">
+    <display-name lang="pt">SPORTV 3 FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPORTV 3 HD">
+    <display-name lang="pt">SPORTV 3 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPORTV 3 SD">
+    <display-name lang="pt">SPORTV 3 SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPORTV SD">
+    <display-name lang="pt">SPORTV SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="STAR CHANNEL FHD">
+    <display-name lang="pt">STAR CHANNEL FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="STAR CHANNEL HD">
+    <display-name lang="pt">STAR CHANNEL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="STAR CHANNEL SD">
+    <display-name lang="pt">STAR CHANNEL SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL FHD">
+    <display-name lang="pt">STUDIO UNIVERSAL FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL HD">
+    <display-name lang="pt">STUDIO UNIVERSAL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SYFY FHD">
+    <display-name lang="pt">SYFY FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SYFY HD">
+    <display-name lang="pt">SYFY HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SYFY SD">
+    <display-name lang="pt">SYFY SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Sportv  3 HD">
+    <display-name lang="pt">Sportv  3 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Sportv 2 HD">
+    <display-name lang="pt">Sportv 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Sportv HD">
+    <display-name lang="pt">Sportv HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TBS FHD">
+    <display-name lang="pt">TBS FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TBS HD">
+    <display-name lang="pt">TBS HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TBS SD">
+    <display-name lang="pt">TBS SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TCM FHD">
+    <display-name lang="pt">TCM FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TCM HD">
+    <display-name lang="pt">TCM HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TCM SD">
+    <display-name lang="pt">TCM SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE ACTION FHD">
+    <display-name lang="pt">TELECINE ACTION FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE ACTION HD">
+    <display-name lang="pt">TELECINE ACTION HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE ACTION SD">
+    <display-name lang="pt">TELECINE ACTION SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE CULT FHD">
+    <display-name lang="pt">TELECINE CULT FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE CULT HD">
+    <display-name lang="pt">TELECINE CULT HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE CULT SD">
+    <display-name lang="pt">TELECINE CULT SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE FUN FHD">
+    <display-name lang="pt">TELECINE FUN FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE FUN HD">
+    <display-name lang="pt">TELECINE FUN HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE FUN SD">
+    <display-name lang="pt">TELECINE FUN SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE PIPOCA FHD">
+    <display-name lang="pt">TELECINE PIPOCA FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD">
+    <display-name lang="pt">TELECINE PIPOCA HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE PIPOCA SD">
+    <display-name lang="pt">TELECINE PIPOCA SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE PREMIUM FHD">
+    <display-name lang="pt">TELECINE PREMIUM FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE PREMIUM HD">
+    <display-name lang="pt">TELECINE PREMIUM HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE PREMIUM SD">
+    <display-name lang="pt">TELECINE PREMIUM SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE TOUCH FHD">
+    <display-name lang="pt">TELECINE TOUCH FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD">
+    <display-name lang="pt">TELECINE TOUCH HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TELECINE TOUCH SD">
+    <display-name lang="pt">TELECINE TOUCH SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TERRA VIVA HD">
+    <display-name lang="pt">TERRA VIVA HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TLC FHD">
+    <display-name lang="pt">TLC FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pt">TLC HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TLC SD">
+    <display-name lang="pt">TLC SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TNT FHD">
+    <display-name lang="pt">TNT FHD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TNT SD">
+    <display-name lang="pt">TNT SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+</tv>
